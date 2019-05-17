@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import fetchMultiple from 'fetch-multiple';
-
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
